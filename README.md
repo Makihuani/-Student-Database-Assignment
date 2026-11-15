@@ -99,5 +99,5 @@ Student-Database-Assignment/
 
 ## 8. Demonstration Video
 
-Video link: [Add your demonstration video link here]
+Video link: https://youtu.be/oWcvNw7gqUA
 
